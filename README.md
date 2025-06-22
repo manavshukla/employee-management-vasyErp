@@ -26,5 +26,4 @@ This project demonstrates basic CRUD operations with role-based access using Spr
 
 ---
 
-## 📁 Project Structure
 
